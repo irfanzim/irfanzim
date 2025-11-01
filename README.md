@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanzim&label=Profile%20views&color=0e75b6&style=flat" alt="irfanzim" /> </p>
 
-- 🌱 I’m currently learning **Excel, Power BI, SQL, and Python**
+- 🌱 Proficient in **Excel, Power BI, SQL, and Python**, and continuously expanding my analytical and technical skills.
 
 - 📫 How to reach me **irfanuzim@gmail.com**
 
